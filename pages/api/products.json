@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Candy pack",
+    "price": "0.01",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "filename": "candies.zip",
+    "hash": "QmTk7GKWRTXu59VmdSdgtuXZGcdZk4zEQ1b7j1hX24VTiZ"
+  },
+  {
+    "id": 2,
+    "name": "time-cat",
+    "price": "",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "name": "time-cat",
+    "price": "0.01",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmNhYMzDwZ1ftxddib2gKdVAVxEwgmGynRK1q5Ht19BXVe",
+    "description": "",
+    "hash": "QmNhYMzDwZ1ftxddib2gKdVAVxEwgmGynRK1q5Ht19BXVe"
+  }
+]
